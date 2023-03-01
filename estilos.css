@@ -30,8 +30,6 @@ body{
     box-shadow: 3px 3px rgba(255, 255, 255, 0.37), -1em 0 .4em rgba(0, 0, 0, 0.199);
 }
 
-
-
 /* Estilos Generales */
 .titulo-seccion{
     color:rgba(255, 255, 255, 0.646);
@@ -43,10 +41,9 @@ body{
     margin: 20px ;
     margin-left: 80px ;
     margin-right: 80px;
-    
 }
+
 .lista{
     display: block;
     margin: 15px
-    
 }
