@@ -1,0 +1,52 @@
+body{ 
+    background-color: rgb(15, 15, 13);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.76)), url(diseño/fondo.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Alice';;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 50px;
+}
+
+.navbar-brand{
+    padding: 0px;
+    align-content: justify;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/* Imagen Perfil */
+#imgPerfil{
+    border-radius: 50px;
+    height:300px;
+    width: 240px; 
+    padding: 20px;
+    box-shadow: 3px 3px rgba(255, 255, 255, 0.37), -1em 0 .4em rgba(0, 0, 0, 0.199);
+}
+
+
+
+/* Estilos Generales */
+.titulo-seccion{
+    color:rgba(255, 255, 255, 0.646);
+    font-family: "Poppins";
+}
+
+.texto{
+    text-align: justify;
+    margin: 20px ;
+    margin-left: 80px ;
+    margin-right: 80px;
+    
+}
+.lista{
+    display: block;
+    margin: 15px
+    
+}
