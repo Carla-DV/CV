@@ -1,5 +1,5 @@
 body{ 
-    background-color: rgb(15, 15, 13);
+    background-color: rgba(15, 15, 13, 0.136);
     background-image:linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.76)), url(diseño/fondo.jpg);
     background-repeat: no-repeat;
     background-position: center center;
